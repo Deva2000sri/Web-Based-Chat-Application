@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Web-Based-Chat-Application'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87F20B75F3B14B40A820C1E3D6195271 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C802B8FC9174A439C970886D03AD30E }}
           package: .
